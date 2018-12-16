@@ -3,6 +3,7 @@ $('#scroll-down').click(function() {
   return false;
 });
 
- $('#scroll-up').click(function() {
+/* $('#scroll-up').click(function() {
      $('html, body').animate({scrollTop: 0},500);
     });
+*/
